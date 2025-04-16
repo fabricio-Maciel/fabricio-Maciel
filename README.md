@@ -64,6 +64,7 @@
 ###
 
 <br>
+<br>
 
 ## 🛣️ Minha trilha 
 |     CURSOS     |                           CERTIFICADOS                        | 
